@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small python projects.
 - 📫 Reach me by sending me an Email: amirhnp1143@gmail.com or just ask my telegtam id.
 - ⚡ Fun fact:Recently got my master degree in mechanical engineering at FUM.
-i just added python certificates that got from sololearn.com
+- i just added python certificates that got from sololearn.com
 
 <!---
 amirhosein-nasirpour/amirhosein-nasirpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
